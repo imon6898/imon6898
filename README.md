@@ -185,12 +185,6 @@ With a strong understanding of software development principles (version control,
 - [UCI](https://play.google.com/store/apps/details?id=com.razinsoft.uci)
 - [eLaundry](https://play.google.com/store/apps/details?id=com.razinsoft.eLaundry)
 
----
-
-## 🛠️ Open Source Contributions (Optional Placeholder)
-
-- [YourRepo1](https://github.com/...) – Description
-- [YourRepo2](https://github.com/...) – Description
 
 ---
 
