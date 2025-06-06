@@ -14,6 +14,8 @@ I have extensive knowledge of Flutter development, including Android SDK, Androi
 I'm experienced in building layouts, integrating APIs, and working with Firebase services.  
 With a strong understanding of software development principles (version control, testing, debugging, code review), I'm a team player with excellent communication skills, committed to delivering high-quality apps and the best user experience.
 
+> 🔧 Role: Lead Flutter Developer / Team Member (depending on the project)
+
 - 🚀 I'm a **Flutter Developer** with 5+ years of experience  
 - 📱 I’ve developed and published multiple **live apps** on Play Store and App Store  
 - 🔧 Skilled in **Flutter, Dart, Firebase, REST APIs, GetX, BLoC**  
@@ -71,11 +73,6 @@ With a strong understanding of software development principles (version control,
   <img src="https://img.shields.io/badge/BLoC-yellow?style=for-the-badge" />
 </p>
 
-## 👨‍💻 About Me
-
-I'm **Imam Hossain**, a passionate Flutter developer from Bangladesh 🇧🇩 with years of experience building robust, scalable mobile applications. I specialize in cross-platform development using **Flutter**, state management with **BLoC** and **GetX**, and integration of complex APIs and Firebase features. I’ve contributed to 50+ live apps across various domains like education, e-commerce, utility tools, and Islamic content.
-
-> 🔧 Role: Lead Flutter Developer / Team Member (depending on the project)
 
 ---
 
