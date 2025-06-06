@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ihossain6898/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/imon6898)
-[![Email](https://img.shields.io/badge/Email-hello@imamhossain.dev-red?style=flat&logo=gmail)](mailto:ihossain6898@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ihossain6898@gmail.com-red?style=flat&logo=gmail)](mailto:ihossain6898@gmail.com)
 
 ---
 
