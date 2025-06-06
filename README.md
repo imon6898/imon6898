@@ -10,9 +10,9 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/imamhossain-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/imamhossain-dev)
-[![Email](https://img.shields.io/badge/Email-hello@imamhossain.dev-red?style=flat&logo=gmail)](mailto:hello@imamhossain.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ihossain6898/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/imon6898)
+[![Email](https://img.shields.io/badge/Email-hello@imamhossain.dev-red?style=flat&logo=gmail)](mailto:ihossain6898@gmail.com)
 
 ---
 
