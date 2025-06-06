@@ -1,91 +1,89 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Imam Hossain</h1>
-<h3 align="center">Sr. Flutter App Developer | Passionate about clean UI, smooth UX & mobile innovation</h3>
+<h3 align="center">A Passionate Flutter Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF2C2C&center=true&vCenter=true&width=500&lines=👨‍💻+Flutter+App+Developer;📱+8%2B+Live+Apps+on+Play+Store;🚀+Sr.+App+Developer+at+Soft+Park+IT;🔥+Building+Smart+Apps+with+Flutter+%26+Firebase" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75555&center=true&vCenter=true&width=435&lines=Flutter+App+Developer;Cross-platform+Mobile+Apps;Firebase+%7C+REST+API+%7C+UI+Design;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💼 About Me
+## 🧑‍💻 About Me
 
-- 🌍 I’m from **Dhaka, Bangladesh 🇧🇩**
-- 🧑‍💻 I work as **Sr. App Developer at Soft Park IT**
-- 💼 Previously worked at:
-  - Software Arena Ltd
-  - Smart Software Ltd
-  - BS Technology
-- 👨‍🎓 **B.Sc. in CSE** from Southeast University
-- 📲 **8+ Flutter Apps published** on Play Store
-- ✍️ I love building **clean UIs, smooth animations, & scalable codebases**
-
----
-
-### 🛠 Tech Stack
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/API-Postman-orange?style=for-the-badge&logo=postman)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+- 🚀 I'm a **Flutter Developer** with 3+ years of experience
+- 📱 I’ve developed and published multiple **live apps** on Play Store and App Store
+- 🔧 Skilled in **Flutter, Dart, Firebase, REST APIs, GetX, BLoC**
+- 🏢 Former **Sr. App Developer at Soft Park IT**
+- 🎓 **B.Sc in CSE** from Southeast University
+- 🌱 Currently learning **Clean Architecture** and **AI integration**
+- 💼 Open to freelance or full-time Flutter roles
+- 🌍 From: **Bangladesh**
 
 ---
 
-### 🚀 Live Apps (Google Play Store)
+## 🔧 Tech Stack
 
-| App Name             | Description                                 | Link                                                                 |
-|----------------------|---------------------------------------------|----------------------------------------------------------------------|
-| **Medimate**          | Smart medicine reminder app                | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.medimate) |
-| **Kotha Blood**       | Blood donation & emergency app             | [Play Store](https://play.google.com/store/apps/details?id=com.kotha.blood) |
-| **City Hospital**     | Hospital service & appointment system      | [Play Store](https://play.google.com/store/apps/details?id=com.cityhospital.app) |
-| **Hasna Hena Dental** | Dental clinic management app               | [Play Store](https://play.google.com/store/apps/details?id=com.hasnahenadental.app) |
-
-🔗 _More live projects on my GitHub profile and Play Store!_
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imon6898&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=imon6898&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imon6898&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GetX-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BLoC-yellow?style=for-the-badge" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🚀 Projects (Live)
+
+| App Name        | Platform         | State Management | Store Link |
+|----------------|------------------|------------------|------------|
+| **Turks Compass** | Android, iOS     | GetX              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.turks_compass) |
+| **Designer Muse** | Android, iOS     | GetX              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.designer_muse) |
+| **MMHF**          | Android, iOS     | GetX              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.mmhf) |
+| **Best Tutor**    | Android, iOS     | GetX              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.best_tutor) |
+| **RewardsX**      | Android, iOS     | GetX              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.rewardx) |
+| **BiddaBD**       | Android, iOS     | BLoC              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.biddabd) |
+| **EduTV**         | Android, iOS     | BLoC              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.edutv) |
+| **SkillSyncHR**   | Android, iOS     | BLoC              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.skillsync_hr) |
+| **Dokani**        | Android, iOS     | GetX              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.dokani) |
+| **HRM**           | Android, iOS     | GetX              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.hrm) |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imon6898&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imon6898&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=imon6898&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imon6898&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 📬 Connect With Me
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://linkedin.com/in/imamhossain6898"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:imamhossain6898@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/imon6898"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=imon6898&theme=radical&row=1" />
 </p>
 
 ---
 
-### 📌 Pinned Projects
+## 📫 Contact Me
 
-<!-- Replace these with your actual repo links -->
-- 🔹 [Medimate App](https://github.com/imon6898/medimate)
-- 🔹 [Kotha Blood App](https://github.com/imon6898/kotha_blood)
-- 🔹 [City Hospital App](https://github.com/imon6898/city_hospital)
-- 🔹 [Flutter Profile UI](https://github.com/imon6898/flutter_profile_ui)
+<p align="left">
+  <a href="mailto:imonhossain6898@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/imon6898"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/imon6898"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-> _“Crafting beautiful mobile apps with Flutter, one widget at a time.”_
+## 📌 Pinned Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imon6898&repo=turks_compass&theme=radical)](https://github.com/imon6898/turks_compass)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imon6898&repo=designer_muse&theme=radical)](https://github.com/imon6898/designer_muse)
