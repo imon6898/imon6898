@@ -34,21 +34,132 @@
 </p>
 
 ---
+## 🚀 Live Flutter Projects
 
-## 🚀 Projects (Live)
+<table>
+  <thead>
+    <tr>
+      <th>App Name</th>
+      <th>Platform</th>
+      <th>State Management</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Turks Compass</b></td>
+      <td>iOS, Android</td>
+      <td>BLoC</td>
+      <td>
+        <a href="https://apps.apple.com/us/app/turks-compass/id6504086837">App Store</a> • 
+        <a href="https://play.google.com/store/apps/details?id=com.softpark.turks_compass">Play Store</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Designer Muse</b></td>
+      <td>iOS, Android</td>
+      <td>BLoC</td>
+      <td>
+        <a href="https://apps.apple.com/us/app/designers-muse/id6468872905">App Store</a> • 
+        <a href="https://play.google.com/store/apps/details?id=com.softpark.designer_muse">Play Store</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>MMHF</b></td>
+      <td>iOS, Android</td>
+      <td>GetX</td>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.softpark.mmhf">Play Store</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Best Tutor</b></td>
+      <td>iOS, Android</td>
+      <td>BLoC</td>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.softpark.best_tutor">Play Store</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>RewardsX</b></td>
+      <td>iOS, Android</td>
+      <td>BLoC</td>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.softpark.rewardx">Play Store</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>BiddaBD</b></td>
+      <td>Android</td>
+      <td>GetX</td>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.softpark.biddabd">Play Store</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>EduTV</b></td>
+      <td>Android</td>
+      <td>GetX</td>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.softpark.edutv">Play Store</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>SkillSyncHR</b></td>
+      <td>Android</td>
+      <td>BLoC</td>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.softpark.skillsync_hr">Play Store</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Dokani</b></td>
+      <td>Android</td>
+      <td>GetX</td>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.softpark.dokani">Play Store</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>HRM</b></td>
+      <td>Android</td>
+      <td>GetX</td>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.softpark.hrm">Play Store</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-| App Name        | Platform         | State Management | Store Link |
-|----------------|------------------|------------------|------------|
-| **Turks Compass** | Android, iOS     | GetX              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.turks_compass) |
-| **Designer Muse** | Android, iOS     | GetX              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.designer_muse) |
-| **MMHF**          | Android, iOS     | GetX              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.mmhf) |
-| **Best Tutor**    | Android, iOS     | GetX              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.best_tutor) |
-| **RewardsX**      | Android, iOS     | GetX              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.rewardx) |
-| **BiddaBD**       | Android, iOS     | BLoC              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.biddabd) |
-| **EduTV**         | Android, iOS     | BLoC              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.edutv) |
-| **SkillSyncHR**   | Android, iOS     | BLoC              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.skillsync_hr) |
-| **Dokani**        | Android, iOS     | GetX              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.dokani) |
-| **HRM**           | Android, iOS     | GetX              | [Play Store](https://play.google.com/store/apps/details?id=com.softpark.hrm) |
+---
+
+### 📱 Other Notable Apps Published
+
+These are some additional apps I’ve worked on that are live on the Play Store and App Store:
+
+- [Job Buddy (iOS)](https://apps.apple.com/us/app/job-buddy/id6474230179)
+- [Strittle](https://play.google.com/store/apps/details?id=com.strittle)
+- [FMappy (iOS)](https://apps.apple.com/us/app/fmappy/id6448935388)
+- [معهد ظ (Arabic app)](https://apps.apple.com/us/app/%D9%85%D8%B9%D9%87%D8%AF-%D8%B8/id1659619484)
+- [USB OTG Checker Pro](https://play.google.com/store/apps/details?id=com.rezwan.usbotg.usbotgchecker.usbotgcheckerpro)
+- [99 Names of Allah](https://play.google.com/store/apps/details?id=com.rezwan.allahnames.the99namesofallah)
+- [Router Admin Setup](https://play.google.com/store/apps/details?id=com.rezwan.routeradmin.wifisetup)
+- [AgroNxt (Farmer, Business, BhuParikshak, AgroLens)](https://play.google.com/store/apps/dev?id=7931862116240632112)
+- [TripStars (User, Provider, Shop)](https://play.google.com/store/apps/dev?id=4888880447582722101)
+- [AirHubs](https://play.google.com/store/apps/details?id=com.app.airhubs)
+- [eLaundry](https://play.google.com/store/apps/details?id=com.razinsoft.eLaundry)
+- [ZamboKiosk](https://play.google.com/store/apps/details?id=com.veecorp.zambokiosk)
+- [FruitVendor App](https://play.google.com/store/apps/details?id=com.fruitvendorapp)
+- [LovFresh User](https://play.google.com/store/apps/details?id=com.lovfreshuser)
+- [MyISP](https://play.google.com/store/apps/details?id=com.mikrobilling.myisp)
+- [Persian Kitchen](https://play.google.com/store/apps/details?id=com.persiankitchen)
+- And many more...
+
+---
+
+🛠 **Want to see more?**  
+Check out my [Play Store Developer Page](https://play.google.com/store/apps/dev?id=7931862116240632112) and [App Store Profile](https://apps.apple.com/developer/id1551765256) for a full list of published apps.
+
 
 ---
 
