@@ -5,6 +5,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75555&center=true&vCenter=true&width=435&lines=Flutter+App+Developer;Cross-platform+Mobile+Apps;Firebase+%7C+REST+API+%7C+UI+Design;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/imamhossain-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/imamhossain-dev)
+[![Email](https://img.shields.io/badge/Email-hello@imamhossain.dev-red?style=flat&logo=gmail)](mailto:hello@imamhossain.dev)
+
 ---
 
 ## 🧑‍💻 About Me
@@ -185,14 +194,6 @@ With a strong understanding of software development principles (version control,
 - [UCI](https://play.google.com/store/apps/details?id=com.razinsoft.uci)
 - [eLaundry](https://play.google.com/store/apps/details?id=com.razinsoft.eLaundry)
 
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/imamhossain-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/imamhossain-dev)
-[![Email](https://img.shields.io/badge/Email-hello@imamhossain.dev-red?style=flat&logo=gmail)](mailto:hello@imamhossain.dev)
 
 ---
 
