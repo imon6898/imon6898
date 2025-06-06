@@ -71,7 +71,14 @@ With a strong understanding of software development principles (version control,
   <img src="https://img.shields.io/badge/BLoC-yellow?style=for-the-badge" />
 </p>
 
+## 👨‍💻 About Me
+
+I'm **Imam Hossain**, a passionate Flutter developer from Bangladesh 🇧🇩 with years of experience building robust, scalable mobile applications. I specialize in cross-platform development using **Flutter**, state management with **BLoC** and **GetX**, and integration of complex APIs and Firebase features. I’ve contributed to 50+ live apps across various domains like education, e-commerce, utility tools, and Islamic content.
+
+> 🔧 Role: Lead Flutter Developer / Team Member (depending on the project)
+
 ---
+
 ## 🚀 Live Flutter Projects
 
 <table>
@@ -86,114 +93,118 @@ With a strong understanding of software development principles (version control,
   <tbody>
     <tr>
       <td><b>Turks Compass</b></td>
-      <td>iOS, Android</td>
+      <td>🍏 iOS</td>
       <td>BLoC</td>
-      <td>
-        <a href="https://apps.apple.com/us/app/turks-compass/id6504086837">App Store</a> • 
-        <a href="https://play.google.com/store/apps/details?id=com.softpark.turks_compass">Play Store</a>
-      </td>
+      <td><a href="https://apps.apple.com/us/app/turks-compass/id6504086837?platform=iphone">App Store</a></td>
     </tr>
     <tr>
       <td><b>Designer Muse</b></td>
-      <td>iOS, Android</td>
+      <td>🍏 iOS • 🤖 Android</td>
       <td>BLoC</td>
-      <td>
-        <a href="https://apps.apple.com/us/app/designers-muse/id6468872905">App Store</a> • 
-        <a href="https://play.google.com/store/apps/details?id=com.softpark.designer_muse">Play Store</a>
-      </td>
+      <td><a href="https://apps.apple.com/us/app/designers-muse/id6468872905">App Store</a> • <a href="https://play.google.com/store/apps/details?id=com.designermuse.kw">Play Store</a></td>
     </tr>
     <tr>
       <td><b>MMHF</b></td>
-      <td>iOS, Android</td>
+      <td>🤖 Android</td>
       <td>GetX</td>
-      <td>
-        <a href="https://play.google.com/store/apps/details?id=com.softpark.mmhf">Play Store</a>
-      </td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.bd.mmhf">Play Store</a></td>
     </tr>
     <tr>
       <td><b>Best Tutor</b></td>
-      <td>iOS, Android</td>
+      <td>🤖 Android</td>
       <td>BLoC</td>
-      <td>
-        <a href="https://play.google.com/store/apps/details?id=com.softpark.best_tutor">Play Store</a>
-      </td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.besttutor.besttutor_app">Play Store</a></td>
     </tr>
     <tr>
       <td><b>RewardsX</b></td>
-      <td>iOS, Android</td>
+      <td>🤖 Android</td>
       <td>BLoC</td>
-      <td>
-        <a href="https://play.google.com/store/apps/details?id=com.softpark.rewardx">Play Store</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>BiddaBD</b></td>
-      <td>Android</td>
-      <td>GetX</td>
-      <td>
-        <a href="https://play.google.com/store/apps/details?id=com.softpark.biddabd">Play Store</a>
-      </td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.rewardsx.consumerapp">Play Store</a></td>
     </tr>
     <tr>
       <td><b>EduTV</b></td>
-      <td>Android</td>
+      <td>🤖 Android</td>
       <td>GetX</td>
-      <td>
-        <a href="https://play.google.com/store/apps/details?id=com.softpark.edutv">Play Store</a>
-      </td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.softpark.edutv">Play Store</a></td>
     </tr>
     <tr>
       <td><b>SkillSyncHR</b></td>
-      <td>Android</td>
+      <td>🤖 Android</td>
       <td>BLoC</td>
-      <td>
-        <a href="https://play.google.com/store/apps/details?id=com.softpark.skillsync_hr">Play Store</a>
-      </td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.thirtymins.providerss">Play Store</a></td>
     </tr>
     <tr>
       <td><b>Dokani</b></td>
-      <td>Android</td>
+      <td>🤖 Android</td>
       <td>GetX</td>
-      <td>
-        <a href="https://play.google.com/store/apps/details?id=com.softpark.dokani">Play Store</a>
-      </td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.smartsoftwarebd.dokani">Play Store</a></td>
     </tr>
     <tr>
       <td><b>HRM</b></td>
-      <td>Android</td>
+      <td>🤖 Android</td>
       <td>GetX</td>
-      <td>
-        <a href="https://play.google.com/store/apps/details?id=com.softpark.hrm">Play Store</a>
-      </td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.smartsoftware.hrm">Play Store</a></td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-### 📱 Other Notable Apps Published
+## 📱 Other Notable Apps (Grouped)
 
-These are some additional apps I’ve worked on that are live on the Play Store and App Store:
-
+### 📚 Educational / Learning
+- [EduTV](https://play.google.com/store/apps/details?id=com.softpark.edutv)
 - [Job Buddy (iOS)](https://apps.apple.com/us/app/job-buddy/id6474230179)
-- [Strittle](https://play.google.com/store/apps/details?id=com.strittle)
-- [FMappy (iOS)](https://apps.apple.com/us/app/fmappy/id6448935388)
-- [معهد ظ (Arabic app)](https://apps.apple.com/us/app/%D9%85%D8%B9%D9%87%D8%AF-%D8%B8/id1659619484)
-- [USB OTG Checker Pro](https://play.google.com/store/apps/details?id=com.rezwan.usbotg.usbotgchecker.usbotgcheckerpro)
+- [Shikho](https://play.google.com/store/apps/details?id=tech.shikho.android)
+
+### 🕌 Islamic
 - [99 Names of Allah](https://play.google.com/store/apps/details?id=com.rezwan.allahnames.the99namesofallah)
-- [Router Admin Setup](https://play.google.com/store/apps/details?id=com.rezwan.routeradmin.wifisetup)
-- [AgroNxt (Farmer, Business, BhuParikshak, AgroLens)](https://play.google.com/store/apps/dev?id=7931862116240632112)
-- [TripStars (User, Provider, Shop)](https://play.google.com/store/apps/dev?id=4888880447582722101)
-- [AirHubs](https://play.google.com/store/apps/details?id=com.app.airhubs)
-- [eLaundry](https://play.google.com/store/apps/details?id=com.razinsoft.eLaundry)
-- [ZamboKiosk](https://play.google.com/store/apps/details?id=com.veecorp.zambokiosk)
-- [FruitVendor App](https://play.google.com/store/apps/details?id=com.fruitvendorapp)
+- [معهد ظ (Arabic app)](https://apps.apple.com/us/app/%D9%85%D8%B9%D9%87%D8%AF-%D8%B8/id1659619484)
+
+### 🛒 E-Commerce / Delivery
+- [Strittle](https://play.google.com/store/apps/details?id=com.strittle)
+- [ThirtyMins User](https://play.google.com/store/apps/details?id=com.thirtymins.user)
+- [ThirtyMins Rider](https://play.google.com/store/apps/details?id=com.thirtymins.providerss)
+- [ThirtyMins Store](https://play.google.com/store/apps/details?id=com.thirtymins.storess)
+- [TripStars User](https://play.google.com/store/apps/details?id=com.tripstars.user)
+- [TripStars Provider](https://play.google.com/store/apps/details?id=com.tripstars.provider)
+- [TripStars Shop](https://play.google.com/store/apps/details?id=com.tripstars.shop)
 - [LovFresh User](https://play.google.com/store/apps/details?id=com.lovfreshuser)
-- [MyISP](https://play.google.com/store/apps/details?id=com.mikrobilling.myisp)
-- [Persian Kitchen](https://play.google.com/store/apps/details?id=com.persiankitchen)
-- And many more...
+- [FruitVendor App](https://play.google.com/store/apps/details?id=com.fruitvendorapp)
+
+### 🧰 Utility Tools
+- [USB OTG Checker](https://play.google.com/store/apps/details?id=com.fantasyapps.usbotg.usbotgchecker)
+- [Duplicate Contacts Remover](https://play.google.com/store/apps/details?id=com.rezwan.duplicatecontacts)
+- [Router Admin Setup](https://play.google.com/store/apps/details?id=com.rezwan.routeradmin.wifisetup)
+- [Snap to Contact](https://play.google.com/store/apps/details?id=com.fantasyapps.scanner.snaptocontact)
+- [Full Battery Alarm](https://play.google.com/store/apps/details?id=com.full.battery.alarm.ring)
+- [App Locker](https://play.google.com/store/apps/details?id=com.fantasyapps.lock.applock.applocker)
+
+### 🌍 Enterprise / Business
+- [AgroNxt Farmer](https://play.google.com/store/apps/details?id=com.agronxt.farmer)
+- [AgroNxt Business](https://play.google.com/store/apps/details?id=com.agronxt.business)
+- [AgroNxt BhuParikshak](https://play.google.com/store/apps/details?id=com.agronxt.bhuparikshak)
+- [AgroNxt AgroLens](https://play.google.com/store/apps/details?id=com.agronxt.agrolens)
+- [UCI](https://play.google.com/store/apps/details?id=com.razinsoft.uci)
+- [eLaundry](https://play.google.com/store/apps/details?id=com.razinsoft.eLaundry)
 
 ---
+
+## 🛠️ Open Source Contributions (Optional Placeholder)
+
+- [YourRepo1](https://github.com/...) – Description
+- [YourRepo2](https://github.com/...) – Description
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/imamhossain-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/imamhossain-dev)
+[![Email](https://img.shields.io/badge/Email-hello@imamhossain.dev-red?style=flat&logo=gmail)](mailto:hello@imamhossain.dev)
+
+---
+
 
 🛠 **Want to see more?**  
 Check out my [Play Store Developer Page](https://play.google.com/store/apps/dev?id=7931862116240632112) and [App Store Profile](https://apps.apple.com/developer/id1551765256) for a full list of published apps.
