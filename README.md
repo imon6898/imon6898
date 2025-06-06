@@ -222,19 +222,4 @@ Check out my [Play Store Developer Page](https://play.google.com/store/apps/dev?
   <img src="https://github-profile-trophy.vercel.app/?username=imon6898&theme=radical&row=1" />
 </p>
 
----
 
-## 📫 Contact Me
-
-<p align="left">
-  <a href="mailto:imonhossain6898@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/imon6898"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/imon6898"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-## 📌 Pinned Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imon6898&repo=turks_compass&theme=radical)](https://github.com/imon6898/turks_compass)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imon6898&repo=designer_muse&theme=radical)](https://github.com/imon6898/designer_muse)
