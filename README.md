@@ -9,14 +9,52 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 I'm a **Flutter Developer** with 5+ years of experience
-- 📱 I’ve developed and published multiple **live apps** on Play Store and App Store
-- 🔧 Skilled in **Flutter, Dart, Firebase, REST APIs, GetX, BLoC**
-- 🏢 Former **Sr. App Developer at Soft Park IT**
-- 🎓 **B.Sc in CSE** from Southeast University
-- 🌱 Currently learning **Clean Architecture** and **AI integration**
-- 💼 Open to freelance or full-time Flutter roles
+As a highly motivated and enthusiastic mobile application developer, I am passionate about creating well-designed, user-friendly, and responsive applications that meet the needs of clients and end users.  
+I have extensive knowledge of Flutter development, including Android SDK, Android Studio, Java, and Kotlin.  
+I'm experienced in building layouts, integrating APIs, and working with Firebase services.  
+With a strong understanding of software development principles (version control, testing, debugging, code review), I'm a team player with excellent communication skills, committed to delivering high-quality apps and the best user experience.
+
+- 🚀 I'm a **Flutter Developer** with 5+ years of experience  
+- 📱 I’ve developed and published multiple **live apps** on Play Store and App Store  
+- 🔧 Skilled in **Flutter, Dart, Firebase, REST APIs, GetX, BLoC**  
+- 🏢 Former **Sr. App Developer at Soft Park IT**  
+- 🎓 **B.Sc in CSE** from Southeast University  
+- 🌱 Currently learning **Clean Architecture** and **AI integration**  
+- 💼 Open to freelance or full-time Flutter roles  
 - 🌍 From: **Bangladesh**
+
+---
+
+## 🏢 Work Experience
+
+| Company Name         | Position                     | Duration                   | Address                                     |
+|----------------------|------------------------------|----------------------------|---------------------------------------------|
+| **Soft Park IT**     | Sr. App Developer (Flutter)  | 01-Jun-2024 – Current      | Dhanmondi 2, H-2, Dhaka                     |
+| **Software Arena Ltd** | App Developer (Flutter)      | 01-Jan-2023 – 30-May-2024  | Banglamotor, Dhaka                          |
+| **Smart Software Ltd** | Jr. App Developer (Flutter)  | 01-Feb-2022 – 31-Dec-2022  | Panthapath, Dhaka                           |
+| **BS Technology**     | Trainee App Developer        | 15-Jul-2021 – 30-Jan-2022  | House 39, Block-C, Road 13, Banani, Dhaka  |
+
+**Roles & Responsibilities**  
+- Design and build sophisticated and highly scalable apps using Flutter  
+- Translate Figma/UI designs into responsive Flutter UI  
+- Build and maintain Web applications  
+- Write clean, readable code and fix bugs  
+- Integrate third-party APIs (Google Maps, Payment Gateways, etc.)  
+- Prepare technical documentation  
+- Research new technologies and development trends  
+
+---
+
+## 🧠 Key Skills & Competencies
+
+- Flutter, Dart, Android SDK, Java, Kotlin  
+- Firebase (Auth, Firestore, Realtime DB, Messaging)  
+- REST API integration  
+- UI/UX design and responsive layout building  
+- Version control (Git), Agile methodology  
+- Clean Architecture, MVVM, MVC  
+- Requirement gathering, documentation, report writing  
+- Debugging, testing, performance optimization  
 
 ---
 
