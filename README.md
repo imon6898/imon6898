@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 I'm a **Flutter Developer** with 3+ years of experience
+- 🚀 I'm a **Flutter Developer** with 5+ years of experience
 - 📱 I’ve developed and published multiple **live apps** on Play Store and App Store
 - 🔧 Skilled in **Flutter, Dart, Firebase, REST APIs, GetX, BLoC**
 - 🏢 Former **Sr. App Developer at Soft Park IT**
