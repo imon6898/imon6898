@@ -111,6 +111,12 @@ With a strong understanding of software development principles (version control,
       <td><a href="https://apps.apple.com/us/app/designers-muse/id6468872905">App Store</a> • <a href="https://play.google.com/store/apps/details?id=com.designermuse.kw">Play Store</a></td>
     </tr>
     <tr>
+      <td><b>BDDTI</b></td>
+      <td>🤖 Android</td>
+      <td>GetX</td>
+      <td><a href="https://play.google.com/store/search?q=bddti&c=apps&hl=en">Play Store</a></td>
+    </tr>
+    <tr>
       <td><b>MMHF</b></td>
       <td>🤖 Android</td>
       <td>GetX</td>
