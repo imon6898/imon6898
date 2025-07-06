@@ -100,7 +100,7 @@ With a strong understanding of software development principles (version control,
   <tbody>
     <tr>
       <td><b>Turks Compass</b></td>
-      <td>🍏 iOS</td>
+      <td>🍏 iOS • 🤖 Android</td>
       <td>BLoC</td>
       <td><a href="https://apps.apple.com/us/app/turks-compass/id6504086837?platform=iphone">App Store</a> • <a href="https://apkpure.com/turk-s-compass/com.turks.compass">Play Store</a></td>
     </tr>
@@ -118,7 +118,7 @@ With a strong understanding of software development principles (version control,
     </tr>
     <tr>
       <td><b>MMHF</b></td>
-      <td>🤖 Android</td>
+      <td>🍏 iOS • 🤖 Android</td>
       <td>GetX</td>
       <td><a href="https://apps.apple.com/ng/app/mmhf-toll/id6544800191?platform=ipad">App Store</a> • <a href="https://play.google.com/store/apps/details?id=com.bd.mmhf">Play Store</a></td>
     </tr>
