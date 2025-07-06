@@ -102,7 +102,7 @@ With a strong understanding of software development principles (version control,
       <td><b>Turks Compass</b></td>
       <td>🍏 iOS</td>
       <td>BLoC</td>
-      <td><a href="https://apps.apple.com/us/app/turks-compass/id6504086837?platform=iphone">App Store</a> • <a https://apkpure.com/turk-s-compass/com.turks.compass">Play Store</a></td>
+      <td><a href="https://apps.apple.com/us/app/turks-compass/id6504086837?platform=iphone">App Store</a> • <a href="https://apkpure.com/turk-s-compass/com.turks.compass">Play Store</a></td>
     </tr>
     <tr>
       <td><b>Designer Muse</b></td>
