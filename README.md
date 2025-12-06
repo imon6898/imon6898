@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Flutter Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75555&center=true&vCenter=true&width=435&lines=Mobile-Application+Specialist;Flutter+App+Development;Cross-platform+Mobile+Apps;Firebase+%7C+REST+API+%7C+UI+Design;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75555&center=true&vCenter=true&width=435&lines=Mobile+Application+Specialist;Flutter+App+Development;Cross-platform+Mobile+Apps;Firebase+%7C+REST+API+%7C+UI+Design;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 
