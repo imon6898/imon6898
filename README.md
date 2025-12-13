@@ -102,7 +102,7 @@ With a strong understanding of software development principles (version control,
       <td><b>Advent Circle</b></td>
       <td>🍏 iOS • 🤖 Android</td>
       <td>GetX</td>
-      <td><a href="">App Store</a> • <a href="https://play.google.com/store/apps/details?id=com.easital.adventcircle">Play Store</a></td>
+      <td><a href="https://apps.apple.com/us/app/advent-circle/id6755335620">App Store</a> • <a href="https://play.google.com/store/apps/details?id=com.easital.adventcircle">Play Store</a></td>
     </tr>
     <tr>
       <td><b>PackMyCode</b></td>
