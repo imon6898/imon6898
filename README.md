@@ -136,9 +136,9 @@ With a strong understanding of software development principles (version control,
     </tr>
     <tr>
       <td><b>Best Tutor</b></td>
-      <td>🤖 Android</td>
+      <td>🍏 iOS • 🤖 Android</td>
       <td>BLoC</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.besttutor.besttutor_app">Play Store</a></td>
+      <td><a href="https://apps.apple.com/kz/app/bddti/id6756296785">App Store</a> • <a href="https://play.google.com/store/apps/details?id=com.besttutor.besttutor_app">Play Store</a></td>
     </tr>
     <tr>
       <td><b>RewardsX</b></td>
