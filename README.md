@@ -39,21 +39,34 @@ With a strong understanding of software development principles (version control,
 
 ## 🏢 Work Experience
 
-| Company Name         | Position                     | Duration                   | Address                                     |
-|----------------------|------------------------------|----------------------------|---------------------------------------------|
-| **Soft Park IT**     | Sr. App Developer (Flutter)  | 01-Jun-2024 – Current      | Dhanmondi 2, H-2, Dhaka                     |
-| **Software Arena Ltd** | App Developer (Flutter)      | 01-Jan-2023 – 30-May-2024  | Banglamotor, Dhaka                          |
-| **Smart Software Ltd** | Jr. App Developer (Flutter)  | 01-Feb-2022 – 31-Dec-2022  | Panthapath, Dhaka                           |
-| **BS Technology**     | Trainee App Developer        | 15-Jul-2021 – 30-Jan-2022  | House 39, Block-C, Road 13, Banani, Dhaka  |
+| Company Name                | Position                           | Duration                   | Address                                     |
+|-----------------------------|------------------------------------|----------------------------|---------------------------------------------|
+| **Easital Technologis Ltd** | Sr. Mobile Application Specialist  | 01-May-2025 – Current      | Dhaka, Dhaka, Bangladesh                    |
+| **Soft Park IT**            | Sr. App Developer (Flutter)        | 01-Jun-2024 – 30-Apr-2025  | Dhanmondi 2, H-2, Dhaka                     |
+| **Software Arena Ltd**      | App Developer (Flutter)            | 01-Jan-2023 – 30-May-2024  | Banglamotor, Dhaka                          |
+| **Smart Software Ltd**      | Jr. App Developer (Flutter)        | 01-Feb-2022 – 31-Dec-2022  | Panthapath, Dhaka                           |
+| **BS Technology**           | Trainee App Developer              | 15-Jul-2021 – 30-Jan-2022  | House 39, Block-C, Road 13, Banani, Dhaka   |
 
 **Roles & Responsibilities**  
-- Design and build sophisticated and highly scalable apps using Flutter  
-- Translate Figma/UI designs into responsive Flutter UI  
-- Build and maintain Web applications  
-- Write clean, readable code and fix bugs  
+- Lead end-to-end development of cross-platform Flutter applications for Android & iOS, serving thousands of active users.
+- Architect scalable mobile apps using BLoC and GetX with clean MVC/MVVM structures.
+- Build secure, real-time features using WebSocket, Pusher, and Agora (chat, notifications, live calls).
+- Integrate advanced payment systems: Stripe Connect, Apple Pay, and micro-payment workflows.
+- Design RESTful API layers and dynamic endpoints; integrate with Convex BaaS for real-time data sync.
+- Implement location-based services using Google Maps API (tracking, nearby search, live routes).
+- Develop native modules and platform channels with Swift (iOS) and Kotlin (Android).
+- Optimize app performance, memory usage, and UI responsiveness across devices.
+- Publish and maintain apps on Google Play Store and Apple App Store.
+- Collaborate with UI/UX designers, backend engineers, and product managers in Agile sprints.
+- Handle production bug fixes, versioning, CI/CD builds, and store compliance.
+- Mentor junior developers and conduct code reviews to maintain high-quality standards.
+- Design and build sophisticated and highly scalable apps using Flutter.  
+- Translate Figma/UI designs into responsive Flutter UI.  
+- Build and maintain Web applications.  
+- Write clean, readable code and fix bugs.  
 - Integrate third-party APIs (Google Maps, Payment Gateways, etc.)  
-- Prepare technical documentation  
-- Research new technologies and development trends  
+- Prepare technical documentation.  
+- Research new technologies and development trends.  
 
 ---
 
