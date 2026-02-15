@@ -28,8 +28,8 @@ With a strong understanding of software development principles (version control,
 
 - 🚀 I'm a **Flutter Developer** with 5+ years of experience  
 - 📱 I’ve developed and published multiple **live apps** on Play Store and App Store  
-- 🔧 Skilled in **Flutter, Dart, Firebase, REST APIs, GetX, BLoC**  
-- 🏢 Former **Sr. App Developer at Soft Park IT**  
+- 🔧 Skilled in **Flutter, Dart, Firebase, REST APIs, GetX, BLoC**
+- 🏢 Currently **Sr. Mobile Application Specialist at Easital Technologies Ltd**  
 - 🎓 **B.Sc in CSE** from Southeast University  
 - 🌱 Currently learning **Clean Architecture** and **AI integration**  
 - 💼 Open to freelance or full-time Flutter roles  
