@@ -41,11 +41,9 @@ With a strong understanding of software development principles (version control,
 
 | Company Name                | Position                           | Duration                   | Address                                     |
 |-----------------------------|------------------------------------|----------------------------|---------------------------------------------|
-| **Easital Technologis Ltd** | Sr. Mobile Application Specialist  | 01-May-2025 – Current      | Dhaka, Dhaka, Bangladesh                    |
-| **Soft Park IT**            | Sr. App Developer (Flutter)        | 01-Jun-2024 – 30-Apr-2025  | Dhanmondi 2, H-2, Dhaka                     |
-| **Software Arena Ltd**      | App Developer (Flutter)            | 01-Jan-2023 – 30-May-2024  | Banglamotor, Dhaka                          |
-| **Smart Software Ltd**      | Jr. App Developer (Flutter)        | 01-Feb-2022 – 31-Dec-2022  | Panthapath, Dhaka                           |
-| **BS Technology**           | Trainee App Developer              | 15-Jul-2021 – 30-Jan-2022  | House 39, Block-C, Road 13, Banani, Dhaka   |
+| **Easital Technologis Ltd** | Sr. Mobile Application Specialist  | 01-Nov-2022 – Current      | Dhaka, Dhaka, Bangladesh                    |
+| **Smart Software Ltd**      | Sr. App Developer (Flutter)        | 01-Mar-2020 – 31-Oct-2022  | Panthapath, Dhaka                           |
+| **BS Technology**           | Trainee App Developer              | 15-Jul-2019 – 30-Jan-2020  | House 39, Block-C, Road 13, Banani, Dhaka   |
 
 **Roles & Responsibilities**  
 - Lead end-to-end development of cross-platform Flutter applications for Android & iOS, serving thousands of active users.
